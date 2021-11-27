@@ -10,6 +10,8 @@ Flappy Bird game implemented in VB6, completed in February 2014.
 
 后来这个程序被我放到班里的电脑上, 然后改成了可以用 PPT 翻页遥控器玩.
 
+![FlappyBird](screenshot.png)
+
 ## Copyright and License
 
 Copyright (C) 2010-2012 MaxXSoft (MaxXing). License GPLv3.
